@@ -19,7 +19,7 @@ public class StudentConfig {
                     "Austo",
                     21,
                     LocalDate.of(2000, Month.APRIL, 19),
-                    "Austin@blah.com"
+                    "Austin@blahh.com"
 
             );
 
